@@ -3,6 +3,10 @@
 굳굳
 얍얍
 변경 변경
+<<<<<<< HEAD
 또다른거 이얍
 똘기
 serverserver
+=======
+또다른거 이얍
+>>>>>>> parent of a7d2d11... ddolgi
